@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Châm Ngôn</string>
+    <string name="widget_description">Hiển thị câu châm ngôn trên màn hình nền</string>
+    <string name="widget_no_quote">Mở app để chọn câu châm ngôn</string>
+</resources>
